@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320703223850",
+    "project_id": "translator-5aa66",
+    "storage_bucket": "translator-5aa66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320703223850:android:7510910ccc7d9039978b53",
+        "android_client_info": {
+          "package_name": "com.sikorski.translator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF-lLrUrlIvX490KkvupmvERAQdPSSXqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
